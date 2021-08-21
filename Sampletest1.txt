@@ -1,2 +1,7 @@
 This is Sample File 1
+
 Generating Random Text. A computer program can easily produce gibberish - especially if it has been provided with garbage beforehand.
+
+Git Commit 1.
+This is comparison lecture
+
